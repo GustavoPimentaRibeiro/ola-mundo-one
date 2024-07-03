@@ -10,8 +10,8 @@ export default function Banner() {
 
         <p className={styles.paragrafo}>
           Boas vindas ao meu espaço pessoal! Eu sou Gustavo Pimenta Ribeiro,
-          estudante de Front-end no curso da Alura. Aqui compartilho vários
-          projetos, espero que aprenda algo novo :)
+          estudante de Front-end no curso da Alura. Aqui compartilho meu projeto
+          desenvolvido, espero que aprenda algo novo!
         </p>
       </div>
 
