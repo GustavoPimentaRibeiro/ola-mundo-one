@@ -14,7 +14,7 @@ Repositório criado com o decorrer do curso `React: desenvolvendo em React Route
 
 - Utilize o comando `npm install` para instalar as dependências e instalar as dependências do `React` e suas bibliotecas utilizadas. Ao terminar de instalar, utilize o comando `npm start`.
 
-## Bibliotecas utiliadas
+## Bibliotecas utilizadas
 
 - `React`
 - `React-dom`
