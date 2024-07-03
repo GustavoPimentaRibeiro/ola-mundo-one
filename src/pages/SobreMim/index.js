@@ -14,41 +14,33 @@ export default function SobreMim() {
         className={styles.fotoSobreMim}
       ></img>
       <p className={styles.paragrafo}>
-        Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te
-        ver por aqui.
+        Olá, eu sou estudante de Front-end do programa ONE da Alura + Oracle em
+        estar participando!
       </p>
       <p className={styles.paragrafo}>
-        Minha história com programação começou no Instituto Federal do Piauí
-        (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu
-        aprendi lógica de programação e o básico de várias linguagens, como PHP,
-        Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava
-        muito de estudar programação, mas na época não fazia ideia de que
-        trabalharia com isso hoje.
+        Minha história com programação começou no Instituto Federal do Sul de
+        Minas Gerais - Campus Passos (IFSUL - Campus Passos), quando fiz a
+        faculdade de Ciências da Computação. Eu aprendi lógica de programação,
+        algumas linguagens de programação (C/C++, Python, JavaScript e Java),
+        conhecimentos teóricos e práticos de como funciona toda a estrutura por
+        trás de um software (Front-end e Back-end), algoritmos para melhoria de
+        performance e estruturas de dados. Antes mesmo de começar a estudar na
+        faculdade, já tinha uma grande paixão por tecnologia, sobre querer saber
+        como funciona, como era feito, parecia mágica aos meus olhos!
       </p>
       <p className={styles.paragrafo}>
-        No ensino superior, escolhi cursar Engenharia Elétrica na Universidade
-        Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de
-        Educação Tutorial), um grupo acadêmico que contribui de diversas formas
-        para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web
-        para ser um dos mantenedores do site deles.
+        Com todo meu percurso de estudo e estágio de 6 meses na empresa Manga
+        Tecnologia, tive minha experiência de dev mais próxima da realidade, com
+        prazos de implementação para softwares, e aprendi muito enquanto
+        programava. Depois dessa experiência, ainda tive outra oportunidade de
+        trabalhar com a empresa Ranor Rastreamento por 3 meses, onde aprendi
+        muito sobre como funciona um sistema mais complexo, onde envolve muitas
+        etapas e setores diferentes da empresa.
       </p>
       <p className={styles.paragrafo}>
-        Com isso tive minha experiência de dev mais próxima da realidade, com
-        prazos de implementação para o site, e aprendi muito enquanto
-        codificava.
-      </p>
-      <p className={styles.paragrafo}>
-        E foi enquanto eu estava no PET que decidi procurar um estágio em
-        desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e
-        percebi que ela aliava duas paixões minhas: programação e educação. Para
-        minha felicidade, fui escolhido para fazer parte do time.
-      </p>
-      <p className={styles.paragrafo}>
-        Desde então, tem sido aprenas aprendizados atrás de aprendizados. A
-        Alura é uma escola não só para seus alunos e alunas, mas também para os
-        colaboradores e colaboradoras. Hoje sou muito feliz de ter a
-        oportunidade de trazer esses conteúdos ricos e encantadores para você.
-        Espero que aprenda bastante!
+        Hoje em dia tenho 9 meses de experiência como Desenvolvedor FullStack e
+        estou com grande motivação e preparado em busca de novas oportunidades
+        no mercado de trabalho!
       </p>
     </PostModelo>
   );
